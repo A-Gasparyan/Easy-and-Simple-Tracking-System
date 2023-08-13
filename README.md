@@ -1,5 +1,6 @@
 # Easy and Simple Tracking System (ESTraS)
 
+![estras para  git](https://github.com/A-Gasparyan/Easy-and-Simple-Tracking-System/assets/119131987/f5c3ebfb-9845-454a-a60a-55b3025e7dcc)
 
 ESTraS is a software designed to track up to 4 arenas, each containing a single animal, within pre-recorded videos. This software is specifically designed for conducting behavioral tests in a user-friendly manner.
 
