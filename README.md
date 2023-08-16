@@ -8,6 +8,15 @@ ESTraS offers you the opportunity to conduct these experiments without the need 
 
 Additionally, it provides valuable insights through an Extras module – a dedicated feature for unsupervised clustering of animal trajectories and angles.
 
+# Download
+
+## From MediaFire
+
+>https://www.mediafire.com/file/7h7ajuvk7j0zf2m/ESTraS__13_08_23_V_0.zip/file
+
+## From MEGA
+
+>https://mega.nz/file/ympiQYjL#AG9aAikZYWO_FWGHJt3iCiypmdlCmu-XSKuGVpsQUHs
 
 # Instalation
 
