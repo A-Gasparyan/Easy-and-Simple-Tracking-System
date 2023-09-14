@@ -33,4 +33,4 @@ Please inform us if you are able to use it.
 
 # User guide
 
-The user guide for ESTraS is included within the compressed file. If you have any questions regarding ESTraS, please do not hesitate to contact us to agasparyan@umh.es.
+The user guide for ESTraS is included within the compressed file. If you have any questions regarding ESTraS, please do not hesitate to contact us at agasparyan@umh.es.
