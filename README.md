@@ -12,11 +12,11 @@ Additionally, it provides valuable insights through an Extras module – a dedic
 
 ## From MediaFire
 
->https://www.mediafire.com/file/7h7ajuvk7j0zf2m/ESTraS__13_08_23_V_0.zip/file
+>https://www.mediafire.com/file/7h7ajuvk7j0zf2m/ESTraS__13_08_23_V_0.zip/file preprint version
 
 ## From MEGA
 
->https://mega.nz/file/ympiQYjL#AG9aAikZYWO_FWGHJt3iCiypmdlCmu-XSKuGVpsQUHs
+>https://mega.nz/file/ympiQYjL#AG9aAikZYWO_FWGHJt3iCiypmdlCmu-XSKuGVpsQUHs preprint version
 
 # Instalation
 
@@ -34,3 +34,8 @@ Please inform us if you are able to use it.
 # User guide
 
 The user guide for ESTraS is included within the compressed file. If you have any questions regarding ESTraS, please do not hesitate to contact us at agasparyan@umh.es.
+
+# Cite this article
+
+Morcuende, A., Femenía, T., Manzanares, J. et al. ESTraS, an easy and simple tracking system for assessing rodent behavior. Behav Res 57, 90 (2025). https://doi.org/10.3758/s13428-024-02537-7
+
